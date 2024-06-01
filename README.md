@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/anupbhowmik/test/_apis/build/status%2Fanupbhowmik.pipelines-java?branchName=main)](https://dev.azure.com/anupbhowmik/test/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
